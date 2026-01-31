@@ -1,0 +1,7 @@
+You must install these programs in the following order:
+
+Node.js (v18+): Essential for running the Frontend.
+Python (v3.9+): Required for the Backend API and Machine Learning models.
+MongoDB Community Server: The database for storing donor records.
+Visual Studio Code
+Git
