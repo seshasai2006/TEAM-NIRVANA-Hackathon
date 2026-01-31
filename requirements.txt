@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+motor   # async MongoDB driver
+python-dotenv
+pandas
+numpy
+python-multipart
+xgboost
+scikit-learn
+
